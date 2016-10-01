@@ -2,6 +2,7 @@ import webbrowser
 from Tkinter import *
 import os
 
+#sup?
 class Twitcher:
 
     def __init__(self):
