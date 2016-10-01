@@ -1,1 +1,2 @@
-print "This is a git test"
+name = "Daniel"
+print "This is a git test %s" % name
