@@ -11,7 +11,7 @@ class Twitcher:
         self.lbHeight = len(self.fav)
 
         # Get your auth key at: http://www.twitchapps.com/tmi/
-        self.twitchAuth = "l0gtqu6mj0etyk3wvqyg2qdo44vphl"
+        self.twitchAuth = ""
 
     def init_window(self):
         self.root = Tk()
