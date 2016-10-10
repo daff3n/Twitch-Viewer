@@ -1,7 +1,7 @@
 import webbrowser
 from Tkinter import *
 import os
-
+# dette er en test
 #sup?
 class Twitcher:
 
